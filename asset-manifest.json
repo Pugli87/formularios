@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e41044a.css",
-    "main.js": "/static/js/main.4dd78b0c.js",
-    "static/js/787.4c672e31.chunk.js": "/static/js/787.4c672e31.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.9586917de7f470d1d13591877e7dd8d9.svg",
-    "index.html": "/index.html",
-    "main.5e41044a.css.map": "/static/css/main.5e41044a.css.map",
-    "main.4dd78b0c.js.map": "/static/js/main.4dd78b0c.js.map",
-    "787.4c672e31.chunk.js.map": "/static/js/787.4c672e31.chunk.js.map"
+    "main.css": "/formularios/static/css/main.5e41044a.css",
+    "main.js": "/formularios/static/js/main.b802e593.js",
+    "static/js/787.4c672e31.chunk.js": "/formularios/static/js/787.4c672e31.chunk.js",
+    "static/media/logo.svg": "/formularios/static/media/logo.9586917de7f470d1d13591877e7dd8d9.svg",
+    "index.html": "/formularios/index.html",
+    "main.5e41044a.css.map": "/formularios/static/css/main.5e41044a.css.map",
+    "main.b802e593.js.map": "/formularios/static/js/main.b802e593.js.map",
+    "787.4c672e31.chunk.js.map": "/formularios/static/js/787.4c672e31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e41044a.css",
-    "static/js/main.4dd78b0c.js"
+    "static/js/main.b802e593.js"
   ]
 }
