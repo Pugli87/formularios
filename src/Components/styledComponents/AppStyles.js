@@ -4,7 +4,7 @@ export const Contain = styled.div`
   //display: flex;
   //flex-direction:column;
   max-width: 280px;
-  //margin: 0 auto;
+  margin: 0 auto;
   text-align: center;
 
   @media (min-width: 320px) {
